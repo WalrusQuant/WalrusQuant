@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6b3c&height=220&section=header&text=Adam%20Wickwire&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Quantifying%20mollusks%20with%20statistical%20significance%20🦪📊&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6b3c&height=220&section=header&text=WalrusQuant&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Quantifying%20mollusks%20with%20statistical%20significance%20&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Solo+Founder+%7C+Full-Stack+Developer+%7C+R+Programmer;Building+SaaS+for+Sports+Analytics+%26+Trading)](https://git.io/typing-svg)
@@ -66,7 +66,7 @@ philosophy: Build practical tools that solve real problems
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/WalrusQuant.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://WalrusQuant.com)
+[![Website](https://img.shields.io/badge/adamwickwire.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://adamwickwire.com)
 [![X](https://img.shields.io/badge/@WalrusQaunt-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3)](https://x.com/WalrusQaunt)
 
 </div>
