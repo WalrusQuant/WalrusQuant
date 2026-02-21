@@ -55,7 +55,6 @@ philosophy: Build practical tools that solve real problems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WalrusQuant&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1a6b3c&text_color=e6edf3&ring_color=1a6b3c" height="170"/>
 <img src="https://streak-stats.demolab.com/?user=WalrusQuant&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a6b3c&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3" height="170"/>
 
 </div>
