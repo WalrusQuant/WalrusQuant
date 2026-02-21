@@ -39,13 +39,11 @@ philosophy: Build practical tools that solve real problems
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════╗
- ║  📈 Futures Trading        ⚾ Sports Analytics & Betting ║
- ║  🤖 Machine Learning       🔧 Full-Stack Development     ║
- ║  🧠 AI / LLM Integration   ⛳ Golf                       ║
- ╚══════════════════════════════════════════════════════════╝
-```
+| Category | Interests |
+|:---|:---|
+| **Markets** | `Futures Trading` · `Trading Systems` · `Technical Analysis` |
+| **Sports** | `Sports Analytics` · `Sports Betting` · `Golf` |
+| **Tech** | `Machine Learning` · `AI / LLM Integration` · `Full-Stack Development` |
 
 </div>
 
