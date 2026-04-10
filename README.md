@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a6b3c&height=220&section=header&text=WalrusQuant&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Quantifying%20mollusks%20with%20statistical%20significance%20&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Solo+Founder+%7C+Full-Stack+Developer+%7C+R+Programmer;Building+tools.+Hoping+they+help.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Building+tools+for+people.;Hoping+they+help.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,8 @@
 
 ```yaml
 name: Adam Wickwire
-role: Solo Founder & Full-Stack Developer
-focus: SaaS products for sports analytics, trading, and data automation
-approach: End-to-end — from data pipelines to production deployments
+day_job: Ecommerce profitability analysis
+side_quests: Sports analytics, trading systems, golf data, anything with a spreadsheet
 philosophy: Build practical tools that solve real problems
 ```
 
@@ -29,7 +28,7 @@ philosophy: Build practical tools that solve real problems
 | Domain | Tools |
 |:---|:---|
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pine Script](https://img.shields.io/badge/Pine_Script-131722?style=flat-square&logo=tradingview&logoColor=white) |
-| **Specialties** | `Sports Analytics` · `Trading Systems` · `API Integration` · `Data Automation` · `SaaS Architecture` |
+| **Specialties** | `Sports Analytics` · `Trading Systems` · `API Integration` · `Data Automation` · `Profitability dashboards` · `Pricing models` · `Data pipelines` · `Analytics tools` · `Automation workflows` |
 
 </div>
 
