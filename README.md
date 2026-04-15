@@ -14,8 +14,8 @@
 
 ```yaml
 name: Adam Wickwire
-day_job: Ecommerce profitability analysis
-side_quests: Sports analytics, trading systems, golf data, anything with a spreadsheet
+day_job: Executive Operations Coordinator
+side_quests: Sports analytics, trading systems, golf data
 philosophy: Build practical tools that solve real problems
 ```
 
